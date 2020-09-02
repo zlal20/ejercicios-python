@@ -1,0 +1,13 @@
+palabra = input("ingresa  clave")
+
+if palabra == 22:
+
+    print "felicidades es la clave"
+
+
+
+
+else:
+
+
+    print"losiento no tienes acceso"

@@ -1,0 +1,15 @@
+#bienvenido#
+
+edad=input ("cual es tu edad")
+
+if edad >=18:
+
+
+    print("continua el procceso")
+
+
+else:
+
+    print "losiento no puedes continuar el proceso"
+
+        

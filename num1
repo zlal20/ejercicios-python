@@ -1,0 +1,5 @@
+a=input("ingresa el primer numero")
+b=input("ingresa el segundo  numero")
+c = a*b
+
+print "el resultado es",c  

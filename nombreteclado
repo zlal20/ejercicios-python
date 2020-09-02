@@ -1,0 +1,4 @@
+#nombre por teclado
+
+name= raw_input("cual es tu nombre")
+print"encantado,"+name

@@ -1,0 +1,9 @@
+#programa para saber cuantas letras tiene la frase
+
+
+pl=input ("ingresa la palabra que quieres saber")
+
+p2 = pl
+
+
+print ""p2.count("a")
